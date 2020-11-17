@@ -2,12 +2,12 @@
   "posts": [
     {
       "id": 1,
-      "titulo": "pub uno",
-      "cuerpo": "Esta es la publicacion uno"
+      "titulo": "Pub uno",
+      "cuerpo": "Esta es la publicación uno"
     },
     {
-      "titulo": "pub 22255",
-      "cuerpo": "segunda publicacion 2 sin id ",
+      "titulo": "Pub dos",
+      "cuerpo": "Esta es la segunda publicación",
       "id": 2
     }
   ]
