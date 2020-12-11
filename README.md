@@ -7,8 +7,11 @@ Como la app se maneja con requests HTTP, se utiliza json server para que haga de
 
 Para utilizar
 
-1-descargar/clonar el repo
-2-con una terminal, instalar los paquetes usando npm install
-3-luego ejecutar npm start para poder usar el navegador para ver la app (usa webpack-dev-server)
-4-en otra terminal, ejectuar npm run json:server para habilitar el falso servidor
+1-Descargar/clonar el repo.
+
+2-Con una terminal, instalar los paquetes usando npm install.
+
+3-Luego ejecutar npm start para poder usar el navegador para ver la app (usa webpack-dev-server).
+
+4-En otra terminal, ejectuar npm run json:server para habilitar el falso servidor.
 
